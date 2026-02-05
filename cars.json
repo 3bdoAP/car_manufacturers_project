@@ -1,0 +1,204 @@
+[
+  {
+    "id": "CAR-001",
+    "name": "Tesla Model S",
+    "description": "A premium all-electric sedan known for its long range, cutting-edge technology, and exceptional acceleration.",
+    "price": 89990,
+    "isAvailable": true,
+    "releaseDate": "2022-06-15",
+    "imageUrl": "https://images.autoweek.nl/261018651/width/800/261018651",
+    "fuelType": "Electric",
+    "features": ["Autopilot", "Panoramic Roof", "Wireless Charging"],
+    "manufacturer": {
+      "id": "MAN-001",
+      "name": "Tesla",
+      "country": "United States",
+      "foundedYear": 2003,
+      "logoUrl": "https://www.logo.wine/a/logo/Tesla%2C_Inc./Tesla%2C_Inc.-Logomark-Black-Logo.wine.svg",
+      "isActive": true
+    }
+  },
+  {
+    "id": "CAR-002",
+    "name": "BMW 3 Series",
+    "description": "A sporty luxury sedan offering a perfect balance between performance, comfort, and efficiency.",
+    "price": 47900,
+    "isAvailable": true,
+    "releaseDate": "2021-03-10",
+    "imageUrl": "https://www.bmw.mu/content/dam/bmw/common/all-models/3-series/sedan/2024/navigation/bmw-3-series-ice-lci-modelfinder.png",
+    "fuelType": "Petrol",
+    "features": ["Sport Suspension", "Leather Seats", "Navigation System"],
+    "manufacturer": {
+      "id": "MAN-002",
+      "name": "BMW",
+      "country": "Germany",
+      "foundedYear": 1916,
+      "logoUrl": "https://blog.logomaster.ai/hs-fs/hubfs/bmw-logo-1963.jpg?width=672&height=454&name=bmw-logo-1963.jpg",
+      "isActive": true
+    }
+  },
+  {
+    "id": "CAR-003",
+    "name": "Audi A4",
+    "description": "A refined executive car with a minimalist interior, advanced infotainment system, and smooth driving dynamics.",
+    "price": 46500,
+    "isAvailable": false,
+    "releaseDate": "2020-11-05",
+    "imageUrl": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/audi-a4-rt-2015-0024_0.jpg?itok=7cJ1PI3F",
+    "fuelType": "Diesel",
+    "features": [
+      "Virtual Cockpit",
+      "Adaptive Cruise Control",
+      "LED Headlights"
+    ],
+    "manufacturer": {
+      "id": "MAN-003",
+      "name": "Audi",
+      "country": "Germany",
+      "foundedYear": 1909,
+      "logoUrl": "https://uploads.audi-mediacenter.com/system/production/media/116125/images/74022a65b478f7b3a8e0bf8ba70994f66fde5dd7/A231415_web_2880.jpg?1698528985",
+      "isActive": true
+    }
+  },
+  {
+    "id": "CAR-004",
+    "name": "Toyota Corolla",
+    "description": "A reliable and fuel-efficient compact car, popular worldwide for its durability and low maintenance costs.",
+    "price": 24990,
+    "isAvailable": true,
+    "releaseDate": "2019-08-20",
+    "imageUrl": "https://toyota.cami-cfao.com/media/gamme/modeles/images/efdb414861674e3521fea1159ded7ea6.jpeg",
+    "fuelType": "Hybrid",
+    "features": ["Lane Assist", "Automatic Climate Control", "Backup Camera"],
+    "manufacturer": {
+      "id": "MAN-004",
+      "name": "Toyota",
+      "country": "Japan",
+      "foundedYear": 1937,
+      "logoUrl": "https://global.toyota/pages/global_toyota/mobility/toyota-brand/emblem_001.jpg",
+      "isActive": true
+    }
+  },
+  {
+    "id": "CAR-005",
+    "name": "Ford Mustang",
+    "description": "An iconic American muscle car delivering powerful performance and an unmistakable design.",
+    "price": 55900,
+    "isAvailable": true,
+    "releaseDate": "2022-04-01",
+    "imageUrl": "https://www.ford.com/acslibs/content/dam/na/ford/en_us/images/mustang/2026/jellybeans/26_frd_mst_dkhr_dr78_crgr.png",
+    "fuelType": "Petrol",
+    "features": ["V8 Engine", "Sport Mode", "Performance Brakes"],
+    "manufacturer": {
+      "id": "MAN-005",
+      "name": "Ford",
+      "country": "United States",
+      "foundedYear": 1903,
+      "logoUrl": "https://logos-world.net/wp-content/uploads/2021/05/Ford-Logo.png",
+      "isActive": true
+    }
+  },
+  {
+    "id": "CAR-006",
+    "name": "Volkswagen Golf",
+    "description": "A versatile hatchback combining practicality, comfort, and modern technology for everyday driving.",
+    "price": 31900,
+    "isAvailable": false,
+    "releaseDate": "2021-01-18",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2025-volkswagen-golf-gti-autobahn-534-688d0aba090a9.jpg?crop=0.579xw:0.488xh;0.242xw,0.383xh&resize=1200:*",
+    "fuelType": "Petrol",
+    "features": ["Digital Dashboard", "Parking Sensors", "Heated Seats"],
+    "manufacturer": {
+      "id": "MAN-006",
+      "name": "Volkswagen",
+      "country": "Germany",
+      "foundedYear": 1937,
+      "logoUrl": "https://cdn.freebiesupply.com/logos/large/2x/volkswagen-1-logo-png-transparent.png",
+      "isActive": true
+    }
+  },
+  {
+    "id": "CAR-007",
+    "name": "Mercedes-Benz C-Class",
+    "description": "A luxury sedan focused on comfort, safety, and a premium driving experience.",
+    "price": 52900,
+    "isAvailable": true,
+    "releaseDate": "2022-09-12",
+    "imageUrl": "https://images.hgmsites.net/med/2025-mercedes-benz-c-class-c-300-4matic-sedan-angular-front-exterior-view_100959585_m.webp",
+    "fuelType": "Diesel",
+    "features": [
+      "Ambient Lighting",
+      "Adaptive Suspension",
+      "Driver Assistance"
+    ],
+    "manufacturer": {
+      "id": "MAN-007",
+      "name": "Mercedes-Benz",
+      "country": "Germany",
+      "foundedYear": 1926,
+      "logoUrl": "https://1000logos.net/wp-content/uploads/2018/04/Mercedes-Benz-Logo.png",
+      "isActive": true
+    }
+  },
+  {
+    "id": "CAR-008",
+    "name": "Hyundai Ioniq 5",
+    "description": "A futuristic electric crossover with fast charging capabilities and a spacious interior.",
+    "price": 45900,
+    "isAvailable": true,
+    "releaseDate": "2023-02-25",
+    "imageUrl": "https://images.hgmsites.net/lrg/2023-hyundai-ioniq-5-limited-rwd-angular-front-exterior-view_100877248_l.jpg",
+    "fuelType": "Electric",
+    "features": ["Fast Charging", "Augmented Reality HUD", "Vehicle-to-Load"],
+    "manufacturer": {
+      "id": "MAN-008",
+      "name": "Hyundai",
+      "country": "South Korea",
+      "foundedYear": 1967,
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/b4VFMLdjLx3TudR9xCMeDT.jpg",
+      "isActive": true
+    }
+  },
+  {
+    "id": "CAR-009",
+    "name": "Peugeot 208",
+    "description": "A stylish compact car offering efficient engines and a modern interior design.",
+    "price": 22900,
+    "isAvailable": true,
+    "releaseDate": "2020-06-30",
+    "imageUrl": "https://www.peugeot.be/content/dam/peugeot/master/b2c/our-range/showroom/208/2023-10-new-208/mobile/208_ACTIVEEV_M.jpg?imwidth=768",
+    "fuelType": "Petrol",
+    "features": ["Touchscreen Display", "LED Daytime Lights", "Cruise Control"],
+    "manufacturer": {
+      "id": "MAN-009",
+      "name": "Peugeot",
+      "country": "France",
+      "foundedYear": 1810,
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmCyxUdIFF2ru_VI9PKeTSgfZj5mAW4bmGJg&s",
+      "isActive": true
+    }
+  },
+  {
+    "id": "CAR-010",
+    "name": "Volvo XC60",
+    "description": "A mid-size SUV designed with a strong focus on safety, comfort, and Scandinavian design.",
+    "price": 58900,
+    "isAvailable": false,
+    "releaseDate": "2021-10-08",
+    "imageUrl": "https://www.thecarexpert.co.uk/wp-content/uploads/2019/07/Volvo-XC60-2133x1200-cropped.jpg",
+    "fuelType": "Hybrid",
+    "features": [
+      "Pilot Assist",
+      "Panoramic Sunroof",
+      "Advanced Safety Systems"
+    ],
+    "manufacturer": {
+      "id": "MAN-010",
+      "name": "Volvo",
+      "country": "Sweden",
+      "foundedYear": 1927,
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxy19PSRiUTJcq6OEg0QUoHAEr4xObFgRF1g&s",
+      "isActive": true
+    }
+  }
+]
